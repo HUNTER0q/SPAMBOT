@@ -10,8 +10,8 @@
         "Spambot"
     ],
     "repository": "https://github.com/NEIMAN-AI/SPAMBOT",
-    "website": "https://t.me/NeimanBot_Owner",
-    "success_url": "https://t.me/NeimanBot_Owner",
+    "website": "https://t.me/PAPA_HUNTER",
+    "success_url": "https://t.me/PAPA_HUNTER",
     "env": {       
         "ENV": {
             "description": "dont edit this",
