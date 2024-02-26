@@ -1,6 +1,6 @@
 {
-   "name": "NeimanSpam",
-    "description": "Spamming Bot Made By Neiman @fuck_uff_XD",
+   "name": "HunterSpam",
+    "description": "Spamming Bot Made By Hunter @PAPA_HUNTER",
     "logo": "https://te.legra.ph/file/315ec5fe03f2a612139b3.jpg",
     "keywords": [
         "telegram",
@@ -166,7 +166,7 @@
             "required": false
         },
         "START_MESSAGE": {
-            "description": "Write Your message that will show you when you start bot",
+            "description": "HUNTER BAAP IS ON THE WAY BABY",
             "value":"",
             "required": false
         },
