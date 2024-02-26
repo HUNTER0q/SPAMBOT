@@ -16,7 +16,7 @@ from Neiman.Config import *
 
 version = "v1.0"
 
-group_username = "@Neiman_UB"
+group_username = "@PAPA_HUNTER"
 
 logging.basicConfig(format="%(levelname)s  %(message)s", level=logging.INFO)
 
@@ -24,7 +24,7 @@ if ":" in BOT_TOKEN:
 
     Client1 = call(
 
-        "NeimanSpam",
+        "HUNTERSPAM",
 
         api_id=APP_ID,
 
